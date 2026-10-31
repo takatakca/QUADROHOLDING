@@ -104,3 +104,15 @@ Chaque intervention est notée ici AVANT, PENDANT et APRÈS, avec signature, pou
 - Aucun paiement, aucune soumission.
 
 — Signé : Finance (Claude Sonnet 5.5), 2026-10-31
+
+
+---
+
+## 2026-10-31 01:40 EDT (05:40 UTC) — APRÈS : états financiers 2025 de Quadro, perte et demande de modification (rien soumis)
+- Fuseau : les heures des entrées précédentes de cette nuit sont en UTC, y compris celles marquées « EDT » par erreur. Cette entrée est en heure de Montréal.
+- Les états financiers compilés de l'exercice clos le 2025-06-30 sont retrouvés dans les dossiers privés du propriétaire. Arithmétique vérifiée; petits écarts à faire expliquer par le comptable.
+- Constat : ces états n'ont jamais été déposés aux deux administrations fiscales. Une perte ne donne pas un remboursement à elle seule; la dette d'impôt des sociétés vient d'une cotisation estimée et devrait être revue à la baisse à la production de la déclaration; la seule piste de remboursement en argent est la TPS/TVQ payée sur les achats et non réclamée, sous réserve des factures.
+- Préparé en local (privé) : analyse, pièces à rassembler, plan en étapes, brouillon de courriel au comptable (non envoyé).
+- Aucun formulaire soumis, aucun paiement, aucun message envoyé. Étapes suivantes avec le go du propriétaire : procuration du comptable, envoi du courriel, factures d'achat, production des déclarations par le comptable.
+
+— Signé : Finance (Claude Sonnet 5.5), 2026-10-31
