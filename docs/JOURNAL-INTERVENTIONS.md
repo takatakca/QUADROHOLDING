@@ -140,3 +140,14 @@ Chaque intervention est notée ici AVANT, PENDANT et APRÈS, avec signature, pou
 - Aucun formulaire soumis, aucun paiement, aucun message envoyé aux gouvernements ni au comptable.
 
 — Signé : Finance (Claude Sonnet 5.5), 2026-10-31
+
+
+---
+
+## 2026-10-31 01:42 EDT (05:42 UTC) — APRÈS : brouillon du message au comptable sur les ventes sans taxe d'une plateforme de livraison (NON envoyé)
+- Heures : lues sur l'horloge de la machine (heure de Montréal, EDT = UTC−4).
+- Fait : brouillon privé, en local, d'un court courriel au comptable : une seule question pour débloquer les deux déclarations TPS/TVQ de juillet–septembre 2026 dues le 2026-11-02 (déclarer la taxe en sus du prix ou incluse, pour les commandes sans taxe facturée).
+- Le courriel n'a pas été envoyé : il ne part qu'avec le go explicite du propriétaire.
+- Aucun formulaire soumis, aucun paiement, aucun message envoyé aux gouvernements ni au comptable.
+
+— Signé : Finance (Claude Sonnet 5.5), 2026-10-31
