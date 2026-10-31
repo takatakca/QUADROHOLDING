@@ -75,3 +75,13 @@ Chaque intervention est notée ici AVANT, PENDANT et APRÈS, avec signature, pou
 - Aucun paiement, aucun autre formulaire.
 
 — Signé : Finance (Claude Sonnet 5.5), 2026-10-31
+
+
+---
+
+## 2026-10-31 03:30 EDT — PENDANT puis APRÈS : recherche de ce qui est dû aux trois comptes de l'organisme fiscal fédéral (lecture seule)
+- Les comptes des deux sociétés n'ont aucun crédit ni remboursement à recevoir. Le compte du particulier a un ancien chèque jamais encaissé; la demande de remplacement est préparée jusqu'à la dernière étape, **non soumise** (elle contient une déclaration personnelle que seul le propriétaire peut faire).
+- Suite prévue (lecture seule) : portail provincial, puis Service Canada.
+- Aucun paiement, aucune demande soumise.
+
+— Signé : Finance (Claude Sonnet 5.5), 2026-10-31
