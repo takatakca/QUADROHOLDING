@@ -151,3 +151,13 @@ Chaque intervention est notée ici AVANT, PENDANT et APRÈS, avec signature, pou
 - Aucun formulaire soumis, aucun paiement, aucun message envoyé aux gouvernements ni au comptable.
 
 — Signé : Finance (Claude Sonnet 5.5), 2026-10-31
+
+
+---
+
+## 2026-10-31 02:46 EDT — APRÈS : feuille de préparation pour le comptable (privée, données omises)
+- Résultat : une feuille de préparation à réviser et à signer par le comptable est prête, avec les décisions à prendre, les pièces à obtenir et un bloc de signatures vide. Elle est rangée dans le dossier **privé** local du propriétaire; aucun chiffre, aucune facture ni aucune pièce n'est dans ce dépôt public.
+- Rien n'est envoyé, soumis, payé ni signé. Aucun portail ouvert. L'envoi au comptable reste une décision du propriétaire.
+- Ce dépôt ne reçoit que ce journal.
+
+— Signé : Finance (Claude Sonnet 5.5), 2026-10-31
