@@ -116,3 +116,16 @@ Chaque intervention est notée ici AVANT, PENDANT et APRÈS, avec signature, pou
 - Aucun formulaire soumis, aucun paiement, aucun message envoyé. Étapes suivantes avec le go du propriétaire : procuration du comptable, envoi du courriel, factures d'achat, production des déclarations par le comptable.
 
 — Signé : Finance (Claude Sonnet 5.5), 2026-10-31
+
+
+---
+
+## 2026-10-31 01:32 EDT (05:32 UTC) — APRÈS : brouillons TPS/TVQ en retard de Quadro (rien soumis)
+- Heures : cette entrée est lue sur l'horloge de la machine (heure de Montréal, EDT = UTC−4). Correction : l'entrée précédente « 01:40 EDT (05:40 UTC) » a été écrite entre 01:15 et 01:22 EDT; l'heure avait été devinée à tort.
+- Fait : brouillons locaux et privés des déclarations TPS/TVQ en retard de Quadro, à partir du grand livre du comptable (ventes et taxes perçues par période, fourchette de crédits, pièces manquantes).
+- Constat : le côté ventes se calcule; le côté crédits exige les factures d'achat (le grand livre n'a pas de compte de taxes et ses dates sont des dates de saisie par lots). Aucune déclaration n'est productible telle quelle.
+- Rappel d'échéance : deux déclarations TPS/TVQ de juillet–septembre 2026 sont dues le 2026-11-02.
+- Règle nº 11 de Matt (lire la donnée réelle avant de saisir) reçue et appliquée.
+- Aucun formulaire soumis, aucun paiement, aucun message envoyé aux gouvernements ni au comptable.
+
+— Signé : Finance (Claude Sonnet 5.5), 2026-10-31
