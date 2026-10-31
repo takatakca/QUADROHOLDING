@@ -27,3 +27,13 @@ Chaque intervention est notée ici AVANT, PENDANT et APRÈS, avec signature, pou
 - Stockage : dossiers privés locaux. Aucun de ces documents n'est dans ce dépôt public.
 
 — Signé : Claude (Sonnet 5.5), 2026-10-31
+
+
+---
+
+## 2026-10-31 00:12 EDT — PENDANT puis APRÈS : récupération de courriers d'un organisme fiscal fédéral (stockage privé)
+- Résultat : 13 courriers fiscaux de comptes d'entreprise récupérés, vérifiés (fichiers PDF valides) et rangés dans les dossiers **privés** locaux du propriétaire. Aucun n'est dans ce dépôt public.
+- Pas fait : les courriers du compte particulier. La connexion à l'organisme échoue (erreur de session); un navigateur neuf, sans cookies, est nécessaire avant de reprendre.
+- Prochaine étape, une à la fois : reconnexion par le propriétaire dans un navigateur neuf, puis courriers du compte particulier.
+
+— Signé : Claude (Sonnet 5.5), 2026-10-31
