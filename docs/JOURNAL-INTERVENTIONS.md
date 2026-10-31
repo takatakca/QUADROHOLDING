@@ -94,3 +94,13 @@ Chaque intervention est notée ici AVANT, PENDANT et APRÈS, avec signature, pou
 - Aucun paiement.
 
 — Signé : Finance (Claude Sonnet 5.5), 2026-10-31
+
+
+---
+
+## 2026-10-31 04:30 EDT — PENDANT puis APRÈS (partiel) : portail fiscal provincial, compte du particulier lu (lecture seule)
+- Le propriétaire s'est connecté lui-même. Aucun solde dû, aucun dossier de recouvrement, aucun produit financier non réclamé identifié au nom du particulier.
+- Registre public des biens non réclamés : protégé par un contrôle anti-robot, à terminer par le propriétaire. Comptes d'entreprise : connexion requise, en attente.
+- Aucun paiement, aucune soumission.
+
+— Signé : Finance (Claude Sonnet 5.5), 2026-10-31
