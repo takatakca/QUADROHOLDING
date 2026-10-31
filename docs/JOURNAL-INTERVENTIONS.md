@@ -161,3 +161,13 @@ Chaque intervention est notée ici AVANT, PENDANT et APRÈS, avec signature, pou
 - Ce dépôt ne reçoit que ce journal.
 
 — Signé : Finance (Claude Sonnet 5.5), 2026-10-31
+
+
+---
+
+## 2026-10-31 02:48 EDT — APRÈS : relecture automatique toutes les 30 minutes (ordre de Matt)
+- Résultat : une tâche planifiée de relecture (toutes les 30 minutes, jusqu'au 2027-01-31, avec arrêt programmé) est créée pour Finance, avec l'accord du propriétaire. Chaque passe rattrape les notes, signatures et dépôts oubliés; sans rien à rattraper, elle ne publie rien.
+- Rectificatif : l'heure de l'entrée précédente (02:46) était une estimation en avance de quelques minutes sur l'horloge de la machine.
+- Aucune donnée, aucun envoi, aucun paiement.
+
+— Signé : Finance (Claude Sonnet 5.5), 2026-10-31
