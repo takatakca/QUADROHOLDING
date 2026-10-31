@@ -129,3 +129,14 @@ Chaque intervention est notée ici AVANT, PENDANT et APRÈS, avec signature, pou
 - Aucun formulaire soumis, aucun paiement, aucun message envoyé aux gouvernements ni au comptable.
 
 — Signé : Finance (Claude Sonnet 5.5), 2026-10-31
+
+
+---
+
+## 2026-10-31 01:40 EDT (05:40 UTC) — APRÈS : plan des déclarations TPS/TVQ de juillet–septembre 2026 (rien soumis)
+- Heures : cette entrée est lue sur l'horloge de la machine (heure de Montréal, EDT = UTC−4).
+- Fait : plan privé, en local, des deux déclarations TPS/TVQ de Quadro dues le lundi 2026-11-02 (siège et succursale, une déclaration par dossier), à partir des exports officiels des plateformes et de la caisse lus la veille : brouillon provisoire, décisions à prendre, calendrier, étapes du portail.
+- Constat : les montants en jeu sont petits; l'enjeu est la conformité. Les ventes de livraison et de caisse du trimestre sont complètes; manquent l'export d'une plateforme, les ventes en salle, les factures de taxes des plateformes, les achats et la décision du comptable sur les ventes sans taxe.
+- Aucun formulaire soumis, aucun paiement, aucun message envoyé aux gouvernements ni au comptable.
+
+— Signé : Finance (Claude Sonnet 5.5), 2026-10-31
