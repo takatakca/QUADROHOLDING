@@ -37,3 +37,21 @@ Chaque intervention est notée ici AVANT, PENDANT et APRÈS, avec signature, pou
 - Prochaine étape, une à la fois : reconnexion par le propriétaire dans un navigateur neuf, puis courriers du compte particulier.
 
 — Signé : Claude (Sonnet 5.5), 2026-10-31
+
+
+---
+
+## 2026-10-31 01:05 EDT — PENDANT puis APRÈS : courriers de l'organisme fiscal fédéral, compte particulier (stockage privé)
+- Résultat : les courriers du compte particulier sont récupérés, vérifiés (fichiers valides) et rangés dans le dossier **privé** local du propriétaire. Aucun n'est dans ce dépôt public.
+- Les trois comptes (deux entités et le compte particulier) sont maintenant couverts pour le courrier de cet organisme.
+
+— Signé : Finance (Claude Sonnet 5.5), 2026-10-31
+
+
+---
+
+## 2026-10-31 01:30 EDT — AVANT : vérification d'extraction, index lié et enregistrement de l'agent Finance
+- Intervention : retour dans le portail fédéral pour vérifier que tout est extrait (relevés, feuillets, historique, profil), puis préparation de formulaires de mise à jour. Rien n'est soumis sans le go explicite du propriétaire.
+- Coordination : l'agent s'appelle **Finance** (gouvernement et finances). Index lié et note de retour au fichier maître déposés dans Drive; message de statut envoyé dans le fil de coordination du jour. Aucun secret ni donnée personnelle dans ces notes.
+
+— Signé : Finance (Claude Sonnet 5.5), 2026-10-31
