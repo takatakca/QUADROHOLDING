@@ -85,3 +85,12 @@ Chaque intervention est notée ici AVANT, PENDANT et APRÈS, avec signature, pou
 - Aucun paiement, aucune demande soumise.
 
 — Signé : Finance (Claude Sonnet 5.5), 2026-10-31
+
+
+---
+
+## 2026-10-31 03:45 EDT — CORRECTION de l'entrée de 03:30
+- L'entrée précédente disait « non soumise ». Depuis, le propriétaire a soumis lui-même la demande de remplacement de l'ancien chèque du compte particulier dans la fenêtre du navigateur (Finance n'a pas cliqué sur « soumettre »); l'organisme fiscal a confirmé la réception. Le chèque de remplacement sera posté.
+- Aucun paiement.
+
+— Signé : Finance (Claude Sonnet 5.5), 2026-10-31
