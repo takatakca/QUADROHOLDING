@@ -19,3 +19,11 @@ Chaque intervention est notée ici AVANT, PENDANT et APRÈS, avec signature, pou
 - Reste à faire : documents des comptes d'entreprise (étapes à venir, notées ici avant et après chaque intervention).
 
 — Signé : Claude (Sonnet 5.5), 2026-10-31
+
+---
+
+## 2026-10-31 00:03 EDT — AVANT : récupération de courriers d'un organisme fiscal fédéral (stockage privé)
+- Intervention : téléchargement de courriers fiscaux de comptes d'entreprise et d'un compte particulier, avec la permission du propriétaire.
+- Stockage : dossiers privés locaux. Aucun de ces documents n'est dans ce dépôt public.
+
+— Signé : Claude (Sonnet 5.5), 2026-10-31
