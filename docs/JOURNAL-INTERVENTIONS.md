@@ -55,3 +55,13 @@ Chaque intervention est notée ici AVANT, PENDANT et APRÈS, avec signature, pou
 - Coordination : l'agent s'appelle **Finance** (gouvernement et finances). Index lié et note de retour au fichier maître déposés dans Drive; message de statut envoyé dans le fil de coordination du jour. Aucun secret ni donnée personnelle dans ces notes.
 
 — Signé : Finance (Claude Sonnet 5.5), 2026-10-31
+
+
+---
+
+## 2026-10-31 02:00 EDT — PENDANT puis APRÈS : vérification d'extraction chez l'organisme fiscal fédéral (trois comptes)
+- Résultat : le courrier de chacun des trois comptes a été comparé au portail, année par année : tout est récupéré et rangé dans les dossiers **privés** locaux du propriétaire. De nouvelles pièces (feuillets de renseignements d'un compte particulier, relevé de transactions d'une société) ont aussi été classées en privé. Aucune n'est dans ce dépôt public.
+- Aucun formulaire soumis, aucun paiement. Un changement d'adresse postale est préparé jusqu'à l'écran de confirmation et attend le go du propriétaire; un autre doit passer par téléphone (refusé en ligne).
+- Suite, une à la fois : go du propriétaire pour les mises à jour de renseignements.
+
+— Signé : Finance (Claude Sonnet 5.5), 2026-10-31
