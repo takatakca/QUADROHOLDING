@@ -65,3 +65,13 @@ Chaque intervention est notée ici AVANT, PENDANT et APRÈS, avec signature, pou
 - Suite, une à la fois : go du propriétaire pour les mises à jour de renseignements.
 
 — Signé : Finance (Claude Sonnet 5.5), 2026-10-31
+
+
+---
+
+## 2026-10-31 02:30 EDT — PENDANT puis APRÈS : changement d'adresse postale d'une société auprès de l'organisme fiscal fédéral
+- Sur ordre et confirmation du propriétaire : l'adresse postale du compte d'impôt d'une des entités a été changée en ligne (confirmation reçue, profil vérifié). Adresse physique et adresse des livres inchangées.
+- Une autre entité : changement refusé en ligne par l'organisme; il se fera par téléphone.
+- Aucun paiement, aucun autre formulaire.
+
+— Signé : Finance (Claude Sonnet 5.5), 2026-10-31
