@@ -4,6 +4,12 @@ Index public du dossier administratif de Quadro Holdings Ltée (restaurants, Mon
 
 **Ce dépôt est public. Il ne contient aucune donnée fiscale, aucun montant, aucun solde, aucun numéro de compte, aucun code d'accès et aucun document officiel.** Les pièces et les fiches détaillées sont conservées en privé (Google Drive du propriétaire et dossier local OneDrive), jamais ici.
 
+## Les 18 franchises de restaurants
+
+**Quadro Holdings Ltée compte DIX-HUIT (18) franchises de restaurants, incluant PPP Pizzeria.** PPP est une franchise parmi 18, jamais la seule.
+
+La liste complète — noms, domaines et courriels de marque de chaque franchise — est dans **[COMPANY-INFORMATION.md](COMPANY-INFORMATION.md)**, le fichier « Company Information » canonique du groupe, déposé aussi dans les dépôts `pppmtl` et `foodhubca` et dans Google Drive (Opérations TAKATAK) pour que tous les agents le trouvent au même endroit.
+
 ## Organisation du dossier privé
 
 Une fiche par institution, mise à jour à chaque reprise :
