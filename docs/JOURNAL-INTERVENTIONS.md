@@ -10,3 +10,12 @@ Chaque intervention est notée ici AVANT, PENDANT et APRÈS, avec signature, pou
 - Ce dépôt ne reçoit que ce journal (sans donnée).
 
 — Signé : Claude (Sonnet 5.5), 2026-10-31
+
+---
+
+## 2026-10-31 00:00 EDT — APRÈS : récupération de documents d'un compte personnel
+- Résultat : 38 documents fiscaux d'un compte personnel récupérés, vérifiés (fichiers PDF valides) et rangés dans le dossier **privé** local du propriétaire.
+- Aucun de ces documents n'est dans ce dépôt public ni ne le sera : ce dépôt ne reçoit que ce journal.
+- Reste à faire : documents des comptes d'entreprise (étapes à venir, notées ici avant et après chaque intervention).
+
+— Signé : Claude (Sonnet 5.5), 2026-10-31
