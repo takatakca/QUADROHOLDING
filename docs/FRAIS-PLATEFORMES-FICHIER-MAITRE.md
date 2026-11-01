@@ -36,13 +36,16 @@
 | « Sommes détournées » — enquête mentionnée dans notre lettre du 2026-10-20 | non documenté | Montants absents des courriels accessibles | À établir à l'export du portail |
 | Frais marketing / Uber Ads, frais de marché, tablette, ajustements | à extraire | Au moins 7 avis de relevés mensuels (avr. → oct. 2026) dans la boîte takatak.ca ; les relevés détaillés sont au portail seulement | **Export ordonné** — phase ajoutée à la fenêtre Uber le 2026-10-31 20:46 : téléchargement de TOUS les relevés/rapports de paiement, toutes les succursales, plus la documentation de chaque type de frais |
 
-## 3. SKIPTHEDISHES — extraction portail EN COURS (ordonnée 2026-10-31 20:46)
+## 3. SKIPTHEDISHES — extraction portail TERMINÉE (fenêtre Skip, 2026-10-31 20:17 → 2026-11-01 00:46)
+
+**Barème : AUCUN barème de frais n'existe dans le portail.** Aucune page n'affiche de pourcentage de commission/marketplace, de grille de frais par commande, de liste de frais marketing ou de frais de tablette/équipement. Les frais n'apparaissent que comme **lignes des relevés hebdomadaires** : sous-total nourriture et breuvages, « Network Access Contribution », revenu net, taxes (TVQ nº 1225732198TQ0001, TPS/TVH nº 833276447, tels qu'imprimés sur les relevés), montant du dépôt direct ; pour PPP seulement, une ligne « Order adjustments and transactions ». FAQ du portail : frais de rétention pour attente du coursier de 0,5 % du sous-total si plus de 10 % d'attentes sur 4 évaluations consécutives ; relevés du lundi au lundi ; paiements libérés les jeudis.
 
 | Item | Montant | Cohérence | Statut |
 |---|---|---|---|
-| Paiements retournés (« bounce-back ») | non documenté | Correspondance bancaire du 2026-09-29 avec Ann B., spécialiste bancaire Skip (réf. Salesforce !00DF006zWK.!500OM0osFGb) — **aucun montant dans les courriels** | À établir au portail |
-| État du compte | — | 2 emplacements ACTIFS (Nutrition Shake Hochelaga ; Nutrishake, 6280 av. Somerled) ; 11 comptes inactifs | Inventaire portail en cours |
-| Barème de frais complet (commission, frais par commande, marketing, tablette, ajustements) | à extraire | Aucun relevé Skip dans les courriels | **Extraction ordonnée** — phase ajoutée à la fenêtre Skip le 2026-10-31 20:46 |
+| **Prélèvements hebdomadaires récurrents en semaines à ZÉRO commande, SANS ligne justificative** — relevé du 19 au 26 octobre 2026 : Bolon −45,00 $ · Bin Molle & Bin Dure −58,56 $ · OCrêpe −10,00 $ · Viennoise −42,63 $ · Pi Pita −93,26 $ · Po Poulet −320,19 $ · O'Oeuf −5,00 $ (sous-total inexpliqué : 574,64 $) ; PPP −10,00 $, lui **détaillé** comme « Order adjustments » | **584,64 $/semaine** au total | **INCOHÉRENT** : des frais hebdomadaires tombent sur des magasins sans aucune commande et aucune ligne ne les explique. Patron corroboré dans les relevés historiques téléchargés (soldes négatifs reportés en semaines à 0 commande, ex. −95,00 $ chez Bin Molle & Bin Dure, 6280 Somerled, juin 2026). Projection **arithmétique** : ≈ **30 401,28 $/an** si le prélèvement reste constant | **DOCUMENTÉ — PAS ENCORE RÉCLAMÉ** (aucune lettre envoyée à Skip) |
+| Paiements retournés (« bounce-back ») | non documenté | Correspondance bancaire du 2026-09-29 avec Ann B., spécialiste bancaire Skip (réf. Salesforce !00DF006zWK.!500OM0osFGb) — **aucun montant** ni dans les courriels ni dans les relevés extraits | Extraction terminée — montant toujours à établir |
+| État du compte | — | 11 magasins au portail (1 seul en ligne : PPP Pizzeria NDG ; 10 « Off ») ; **41 demandes d'inscription** soumises et confirmées le 2026-10-31 pour les marques/emplacements absents (détail : note « 2026-10-31 — SkipTheDishes inventaire portail — signé Taktak ») | Inventaire + inscriptions terminés |
+| Pièces de l'extraction | — | **35 fichiers CSV** téléchargés du portail (détails de commandes et transactions par magasin, relevés par période EN/FR) — dépôt local `~/workspace/skip-fees-extraction/` | |
 
 ---
 
@@ -52,8 +55,8 @@
 |---|---|---|---|
 | DoorDash | **13 480,08 $** (+ 2,90 $ bloqué) | **13 480,08 $** (v6 + L1) | Relevés portail post-avr. 2025 |
 | Uber Eats | **1 688,72 $** | **1 688,72 $** (L3) | Relevés complets du portail |
-| SkipTheDishes | — | — | Montants bounce-back + barème au portail |
-| **TOTAL connu** | **15 168,80 $** | **15 168,80 $** | |
+| SkipTheDishes | **584,64 $** (prélèvement hebdomadaire récurrent documenté sur le relevé du 19–26 oct. 2026 ; ≈ 30 401,28 $/an si constant — arithmétique) | **0 $ — pas encore réclamé** | Extraction terminée le 2026-11-01 |
+| **TOTAL connu** | **15 753,44 $** | **15 168,80 $** | |
 
 ## Pièces sources (Drive — « 00 — COMPTABILITÉ ET FACTURATION — CENTRAL » → « 03 — QUADRO HOLDING » → « 04 — PLATEFORMES DE LIVRAISON — FINANCES ET CHARGEBACKS », dossier 1QEJrCzOBf9mylb0iGsaupwfrC85CPlAH)
 - Tableau des frais DoorDash à rembourser (CSV, 867 lignes) — Drive 1euvk-5EkjUj7iYC4Yo6Jwz-PHxHqMRqi
@@ -66,7 +69,13 @@
 ## Note d'après (résultat au 2026-10-31 20:46)
 - DoorDash : extraction complète, montants réconciliés au cent, **tout est réclamé** (v6 + L1). Restes : L2 (avis de 2,90 $ à retrouver), Gâteau NDG 41889687 (montant au portail), conciliation charge par charge en cours chez DoorDash.
 - Uber : montant connu réclamé (L3). L'audit complet des frais (marketing, marché, tablette, ajustements) attend l'export du portail — phase lancée.
-- Skip : aucun montant documenté à ce jour ; l'audit dépend entièrement de l'extraction portail — phase lancée.
+- Skip : extraction portail terminée (voir la mise à jour du 2026-11-01 ci-dessous) — des montants sont maintenant documentés.
 - Ce fichier est mis à jour à chaque nouvel extrait reçu ; chaque mise à jour est signée et redéposée aux mêmes endroits (GitHub, Drive, fil courriel des agents).
+
+## Mise à jour du 2026-11-01 — SkipTheDishes : extraction terminée, premier montant documenté
+- La fenêtre Skip a terminé ses 4 phases (inventaire, spec de clonage, 41 inscriptions confirmées, extraction des frais). **Aucun barème de frais n'existe au portail** ; les frais sont des lignes de relevés hebdomadaires seulement.
+- **Nouveau documenté Skip : 584,64 $/semaine** de prélèvements récurrents en semaines à zéro commande, dont **574,64 $ sans aucune justification** au relevé du 19–26 octobre 2026 (détail à la section 3). Statut : **DOCUMENTÉ, PAS ENCORE RÉCLAMÉ** — aucune lettre envoyée ; la règle anti-double-réclamation s'appliquera dès l'envoi d'une réclamation.
+- Totaux du fichier après mise à jour : **documenté 15 753,44 $** ; **réclamé inchangé : 15 168,80 $**.
+- Fichier redéposé en place le 2026-11-01 : GitHub takatakca/QUADROHOLDING `docs/FRAIS-PLATEFORMES-FICHIER-MAITRE.md`, Drive Opérations 1F7FxFKiT9r76MiPXbeY60jRqhS8CD4Zo, Drive Comptabilité 1J0gieaxVDnU-K5GSfReZdIuJGWTSVxz7.
 
 — Taktak
