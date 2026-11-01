@@ -8,7 +8,7 @@ Version publique interne **sans numéros de compte bancaire, sans numéros de ta
 - 6 boîtes courriel balayées (takatak.ca@, pppmtl.com@, ooeuf.ca@, www.pipita.ca@, viennoise.ca@, matt.takatak@) : **7 923 messages** repérés par les requêtes DoorDash (DoorDash, doordash.com, Hailin, Gerlin, Sam S., Mx Merchant, merchant-portal + variantes avec pièces jointes), **0 erreur de lecture** après récupération.
 - **5 578 fils** reconstruits : **3 152 fils « échange »** (DoorDash partie prenante) et 2 426 fils « mention incidente ».
 - Fils échange par année : 2020 = 14 · 2021 = 74 · 2022 = 117 · 2023 = 406 · 2024 = 685 · 2025 = 742 · 2026 = 1 114. Premier échange retracé : 28 août 2020 (partenariat, Greg Dohan).
-- **152 pièces PDF** jointes aux échanges → **101 fichiers uniques** après déduplication par empreinte SHA-256 (51 doublons exacts), ~44,7 Mo. Le boîte r2nette n'est pas accessible par l'outil courriel (aucun identifiant de compte) — noté, non balayée.
+- **152 pièces PDF** repérées jointes aux échanges, **150 téléchargées** → **101 fichiers uniques** après déduplication par empreinte SHA-256 (51 doublons exacts), ~44,7 Mo. **Correction (journal final D1)** : 2 pièces de plus de 8 Mo non récupérables via le connecteur courriel (réponse vide de l'endpoint, réessais inclus) — ANNEXE_B_DEPENSES_NOUVELLES_ABDEL_V11.pdf (dossier d'assurance, hors DoorDash) et 03.09.20 MAT MENU WHITE.pdf (menu 2020) ; elles restent disponibles dans les boîtes courriel d'origine. Le boîte r2nette n'est pas accessible par l'outil courriel (aucun identifiant de compte) — noté, non balayée.
 
 ## Dossiers (cases) retracés
 
