@@ -158,3 +158,13 @@ qmaps · mimt · mimtcaapp (même projet que mimt) · EMPLOIDIRECT.CA · LOCACTI
 Questions précises pour Matt (au-delà des courriels) : (1) promohavanaca — confirmer promohavana.ca@gmail.com comme courriel du projet Havana ; (2) INNTIME — confirmer inntime.ca@gmail.com (présumé) ; (3) compassion-connect et cake-concierge — clients externes (Page requise) ou internes ? (4) r2fca — c'est quoi ce projet ? (5) Pages officielles à garder dans chaque grappe §1 ; (6) Miel Aissa — réactiver ou abandonner ?
 
 — Taktak
+
+## Note d'après (résultat vérifié)
+
+- Livrable terminé le 2026-11-01 (~15:52 EST) : 81 dépôts cartographiés — 23 OK · 12 DOUBLONS · 15 MANQUANTES · 31 INTERNE/à valider ; bassin de recyclage = 18 candidates ; 56 courriels à demander à Matt (§3).
+- Dépôts : Drive Opérations **1qXx92a2RMW_F2EzvDbni9AbM2B4R5Lfa** ; GitHub QUADROHOLDING `docs/CARTOGRAPHIE-PROJETS-PAGES.md` (relu après push, contenu vérifié).
+- Fil Gmail du jour (1a1954f63654da5c) : la réponse directe (+reply-all) a échoué — « could not prepare send », **rien n'a été envoyé**. La route brouillon a créé un brouillon HORS fil (threadId différent du fil du jour) : **non envoyé, mis à la corbeille**, conformément à l'interdit de créer un nouveau fil. Le corps du résumé est déposé en fichier : `~/workspace/your_files/2026-11-01 — Cartographie — corps courriel fil du jour — signé Taktak.txt` — à renvoyer dans le fil par la session principale à sa prochaine passe de supervision.
+- Registre (en tête) et journal du jour mis à jour dans la même passe.
+- Aucune action Meta (aucune création, aucun renommage, aucun recyclage). En attente : validation de Matt (bons / pas bons + courriels), puis vague 2 seulement après son OK.
+
+— Taktak
