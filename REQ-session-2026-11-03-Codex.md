@@ -1,6 +1,6 @@
 # QUADRO HOLDINGS LTÉE — COMPTE RENDU REQ — 2026-11-03
 
-Statut : préparation et vérification du brouillon annuel 2026 effectuées pour Quadro Holdings Ltée, NEQ 1176760537. Transmission et inscription officielle NON CONFIRMÉES. Dernier écran observé : Vérification des renseignements, certification de la personne tenue de signer cochée par le propriétaire, bouton Transmettre disponible. Aucun accusé de réception ni numéro de dépôt observé. Le passage ultérieur à Revenu Québec ne prouve pas un dépôt REQ.
+Statut actualisé : transmission annuelle REQ 2026 confirmée par le PDF fourni et archivé dans Google Drive. L’acceptation finale des noms n’est pas établie. Au 3 novembre 2026 à 14 h 05 (Québec), 34 demandes de restaurants TPS/TVQ sont confirmées dans le suivi de Revenu Québec, toutes en attente de traitement. Le dossier global reste en cours.
 
 Version publique : coordonnées personnelles, dates de naissance et identifiants de pièce omis; compte rendu complet dans Google Drive privé.
 
@@ -27,8 +27,8 @@ Convention unanime : absence de changement; valeur antérieure Non, sans convent
 Administrateurs du bien d’autrui : liste vide. Fondé de pouvoir : aucun renseignement déclaré. Faillite : option « L’entreprise n’est pas en faillite » préexistante conservée.
 ADEL SANI : le propriétaire veut un rôle de bénévole/gestion opérationnelle, sans propriété ni pouvoir juridique, d’emprunt ou de blocage du crédit. Il n’a pas été ajouté comme dirigeant, administrateur, actionnaire ou fondé de pouvoir. Aucune catégorie bénévole appropriée trouvée. Une autorisation interne limitée reste à rédiger si souhaitée; rien de tel n’a été signé ici.
 
-## Noms commerciaux préparés
-71 noms ajoutés observés dans le brouillon et 20 anciens noms marqués Supprimé. Il s’agit de demandes d’inscription, pas d’acceptations par le Registraire. Le portail prévient que leur analyse peut prendre plusieurs semaines et qu’un refus demeure possible.
+## Noms commerciaux transmis au REQ
+71 noms ajoutés et 20 anciens noms marqués Supprimé dans le document REQ transmis. Il s’agit de demandes d’inscription, pas d’acceptations par le Registraire. Le portail prévient que leur analyse peut prendre plusieurs semaines et qu’un refus demeure possible.
 Consignes du propriétaire : noms en MAJUSCULES, variantes locales (NDG) et (ST-LEONARD), sans 24/7; descriptions avec type de menu pour les restaurants. Les variantes de nom en autre langue ont été saisies selon le format demandé par le propriétaire; elles ne constituent pas une validation linguistique de conformité. Le portail exige une traduction pour cette rubrique, alors que plusieurs variantes saisies sont des noms de base sans localité.
 
 18 marques, chacune en NDG et ST-LEONARD :
@@ -84,7 +84,7 @@ Autres candidats évoqués mais non ajoutés : 1LV, RAPIDE2NETTE, CUBAFOOD, FEST
 82 dépôts GitHub accessibles recensés et liste de 42 domaines MochaHost consultée. Ni un dépôt ni un domaine ne prouve à lui seul la propriété d’une entreprise ou l’usage d’un nom. Aucun achat/enregistrement/transfert de domaine réalisé ici.
 
 ## Reste à faire et preuves attendues
-1. Obtenir la confirmation de transmission REQ et conserver l’accusé/numéro de dépôt si le propriétaire a transmis après notre dernier contrôle; ne pas déclarer un dépôt sans cette preuve.
+1. FAIT : confirmation de transmission REQ obtenue par le PDF fourni et conservée dans Google Drive. Suivre séparément l’analyse et l’acceptation des noms.
 2. Résoudre CCC CANADA CONNECTION et Comparaison/Compassion Connect, la casse TAKATAK MARKETING et la conformité des variantes « autre langue »; vérifier les descriptions de menus et les noms encore candidats.
 3. Réconcilier le statut du 3583 Sainte-Catherine E et vérifier que les secteurs principaux reflètent l’activité réelle.
 4. Formaliser séparément la cession et les résolutions/conventions nécessaires; aucun document signé de transfert ni lettre de Pierre produit dans ce travail.
@@ -93,3 +93,57 @@ Autres candidats évoqués mais non ajoutés : 1LV, RAPIDE2NETTE, CUBAFOOD, FEST
 Sources de travail : conversation présente; récapitulatif REQ en direct du 2026-11-03; GitHub takatakca/OOEUF.CA, COMPANY-INFORMATION.md; takatakca/QUADROHOLDING; Drive liste des 42 domaines 1pvpd2a7mtjQEwByPBFtqn_Ev4PGmtXIp. Les informations externes anciennes ne remplacent pas les corrections expresses du propriétaire.
 
 Signature : Codex — ChatGPT Work — 2026-11-03.
+
+## TPS/TVQ — état détaillé vérifié le 3 novembre 2026
+
+Les 34 demandes ci-dessous figurent dans « Suivi d’une demande » comme reçues le 3 novembre 2026 et en attente de traitement. Les trois pages du suivi ont été vérifiées : 39 entrées au total, soit ces 34 demandes et cinq demandes antérieures. Les références et accusés sont conservés dans Google Drive privé. Aucune attribution de nouveaux numéros TPS/TVQ n’a été observée.
+
+| Marque | NDG | ST-LEONARD |
+|---|---|---|
+| PPP PIZZERIA | Transmise — en attente | Transmise — en attente |
+| OOEUF | Transmise — en attente | Transmise — en attente |
+| PO POULET | Transmise — en attente | Transmise — en attente |
+| O’CRÊPE | Transmise — en attente | Transmise — en attente |
+| PI PITA | Transmise — en attente | Transmise — en attente |
+| VIENNOISE / GÂTEAUX MONTRÉAL | Transmise — en attente | Transmise — en attente |
+| TACO MONTRÉAL | Transmise — en attente | Transmise — en attente |
+| NUTRITION SHAKE | Transmise — en attente | Transmise — en attente |
+| CAFÉ BOLON | Transmise — en attente | Transmise — en attente |
+| MYTHOS & GO | Transmise — en attente | Transmise — en attente |
+| DÉLICES D’ADEN | Transmise — en attente | Transmise — en attente |
+| PIZZA INNTIME | Transmise — en attente | Transmise — en attente |
+| PITA LIBANAIS | Transmise — en attente | Transmise — en attente |
+| POULET EXPRESS | Transmise — en attente | Transmise — en attente |
+| PIZZA ALGÉRIE | Transmise — en attente | Transmise — en attente |
+| PLACE AFRIQUE | Transmise — en attente | Transmise — en attente |
+| DÉJEUNER MONTRÉAL | Transmise — en attente | Transmise — en attente |
+| BMBD - BIN MOLLE BIN DURE | Aucun accusé; absent du suivi consulté | Non commencé |
+
+Paramètres des demandes restaurants : effet TPS/TVQ demandé au 1er novembre 2026; communication en français; comptabilité distincte déclarée selon les confirmations du propriétaire; équipement, compte et menu propres à chaque restaurant; restauration rapide, vente à emporter et livraison, sans alcool ni mention 24/7. Les adresses d’établissement et de correspondance confirmées sont consignées dans le dossier privé. La correction expresse du propriétaire pour Jean-Talon prévaut sur les anciennes données GitHub. L’exception d’adresse O’CRÊPE NDG est conservée. Les autres noms doivent conserver leurs activités et paramètres propres; ne pas leur appliquer automatiquement les réponses des restaurants.
+
+### Menus saisis
+
+PPP PIZZERIA, PIZZA INNTIME et PIZZA ALGÉRIE : pizza. OOEUF et DÉJEUNER MONTRÉAL : déjeuners. PO POULET et POULET EXPRESS : poulet. O’CRÊPE : crêpes. PI PITA et PITA LIBANAIS : pitas. VIENNOISE / GÂTEAUX MONTRÉAL : gâteaux et pâtisseries. TACO MONTRÉAL : tacos. NUTRITION SHAKE : boissons fouettées. CAFÉ BOLON : café. MYTHOS & GO, DÉLICES D’ADEN et PLACE AFRIQUE : mets préparés. BMBD préparé : crèmes glacées et desserts glacés, conformément à la description du PDF REQ.
+
+### Interruption et nouvelles tentatives
+
+À 06:46 le 3 novembre, une déconnexion pour problème des systèmes est survenue après le clic Transmettre pour BMBD NDG. Aucun accusé n’a été obtenu. Lors de la reprise vers 14 h, aucune entrée supplémentaire n’apparaît dans le suivi; BMBD ne doit donc pas être présenté comme transmis.
+
+Accès à l’inscription tenté à 14:02:37 par l’ancien lien direct, puis à 14:03:38 par le menu officiel Taxes → Fichiers de taxes → Oui. Nouvelle tentative après actualisation à 14:05:32. Résultat identique : « Page non trouvée », code SM_0404. La connexion et la consultation du suivi fonctionnent; le service d’inscription est inaccessible. Aucune nouvelle demande transmise pendant ces tentatives. Le suivi a été laissé ouvert.
+
+### Démarches restantes
+
+1. Reprendre BMBD NDG lorsque le service fonctionne, en vérifiant à nouveau le suivi avant l’envoi; traiter BMBD ST-LEONARD.
+2. Traiter les 35 autres noms recensés plus haut après validation de leurs activités, comptabilité et paramètres propres. L’adresse hors restauration fournie par le propriétaire est consignée dans Drive; son code postal reste à vérifier.
+3. Fournir les renseignements sur les établissements pour la facturation obligatoire. Les réponses RQ demandent le service correspondant ou le formulaire VD-350.52.A; cette étape reste à effectuer.
+4. Traiter la deuxième mission de retenues à la source après la première. Le portail présente déjà une rubrique Retenues et cotisations avec des obligations : examiner l’existant avant de créer un dossier supplémentaire. Aucune nouvelle inscription à cette fin effectuée ici.
+5. Suivre le traitement des 34 demandes; conserver toute confirmation et tout numéro attribué ultérieurement.
+6. Résoudre les points REQ et documents de transaction encore ouverts dans les sections précédentes. Ne pas déclarer le dossier terminé à 100 %.
+
+### Archivage et portée des documents
+
+Le compte rendu complet, les références, les extraits textuels de confirmation, le PDF REQ fourni, le fichier maître de coordination et l’index financier sont conservés dans Google Drive. Les extraits textuels sont explicitement identifiés comme tels : ils ne sont pas les PDF originaux de Revenu Québec. Certaines confirmations n’ont qu’un relevé de transmission, la page d’impression ayant été fermée. Les erreurs de capture détectées ont été corrigées; les fichiers ne doivent pas être présentés comme des originaux récupérés. Les pages d’impression ont été ouvertes au fil du travail; leur persistance après fermeture ou expiration de session n’est pas garantie. Aucune impression physique confirmée.
+
+Cette mise à jour publique est demandée après information du propriétaire sur la visibilité du dépôt. Les pièces d’identité, coordonnées personnelles, identifiants fiscaux privés, références de dépôt et documents fiscaux restent dans Google Drive; ils ne sont pas joints à ce dépôt public. Les refus précédents de publication ont laissé GitHub inchangé jusqu’à cette mise à jour. Les sections historiques sont conservées pour la traçabilité; le présent état actualisé prévaut sur les mentions antérieures de transmission REQ non confirmée.
+
+Signature de mise à jour : Codex — ChatGPT Work — 2026-11-03, après vérification du suivi à 14 h 05 (Québec).
