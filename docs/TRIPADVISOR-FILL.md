@@ -1,1 +1,33 @@
-IyBUcmlwQWR2aXNvciDigJQgUmVtcGxpc3NhZ2UgZGVzIDE4IGZpY2hlcyByZXN0YXVyYW50cyDigJQgSk9VUk5BTCBUV0lMTwoKIyMgQVZBTlQgKDIwMjYtMTEtMDMgfjAzOjIwIEVTVCkKCioqTWlzc2lvbiAob3JkcmUgZGlyZWN0IElycWMpKiogOiByZW1wbGlyIGxlcyAxOCBmaWNoZXMgVHJpcEFkdmlzb3IgZGVzIHJlc3RhdXJhbnRzIGRlIEEgw6AgWiwgVU5FIFBBUiBVTkUsIGp1c3F1J8OgIGNvbXBsw6l0aW9uIHRvdGFsZS4gQ2hhcXVlIGZpY2hlIGNvbXBsw6h0ZSA6IGxvZ28sIGhlYWRlci9jb3ZlciwgcGhvdG9zIGRlIG1lbnUsIGluZm9ybWF0aW9ucywgY291cnJpZWwgZGUgY29udGFjdC4gTmUgcGFzIGTDqXZpZXIuCgoqKsOJdGF0IGluaXRpYWwgOioqCi0gMTgga2l0cyBkZSBjb250ZW51IHByw6p0cyAoYH4vd29ya3NwYWNlL2JsaXR6LXJlc3Rvcy88bWFycXVlPi9gKSA6IGhlcm8sIHZyYWllIHBob3RvIENhbnZhICgxNi8xOCksIGNhcHRpb24gRlIsIHNvdXJjZXMuIFBob3RvcyBDYW52YSBtYW5xdWFudGVzIDogUGxhY2UgQWZyaXF1ZSwgTXl0aG9zICYgR28uCi0gUGFja2FnZXMgZGUgcmVtcGxpc3NhZ2UgOiBgRklDSEVTLVRSSVBBRFZJU09SLm1kYCAoZW1haWxzLCB0w6lsw6lwaG9uZXMgKzEgNDUwLTk5OS00OTk5LCBob3JhaXJlcyAxMWjigJMyM2ggc2F1ZiBQUFAgTkRHIDE2aOKAkzNoLCBsb2dvcyBjYW5kaWRhdHMpLgotIFBob3RvcyBkZSBtZW51IDogY29sbGVjdGUgZW4gY291cnMgKENhbnZhICsgc2l0ZXMgd2ViICsgT24yR28gKyBHb29nbGUg4oCUIHRvdWpvdXJzIGxlcyBQTFVTIFLDiUNFTlRFUykuCi0gQ29ubmV4aW9uIDogY29tcHRlIHBhciBjb21wdGUgR29vZ2xlIGRlcyByZXN0YXVyYW50cyAoZMOpYnV0IDogb29ldWYuY2FAZ21haWwuY29tKS4gQmxvcXXDqSDDoCBsYSB2YWxpZGF0aW9uIHTDqWzDqXBob25lIGQnSXJxYy4KLSAwIGZpY2hlIHJlbXBsaWUgw6AgY2Ugc3RhZGUuCgoqKlLDqGdsZXMqKiA6IHLDqGdsZSBkJ29yIG7CuiAxMSAobGlyZSBsZSByw6llbCBhdmFudCBkZSBtb2RpZmllcikgOyBub3RlcyBhdmFudC9wZW5kYW50L2FwcsOocyA7IERyaXZlICsgR2l0SHViLgoKIyMgUEVOREFOVAoow6AgY29tcGzDqXRlcikKCiMjIEFQUsOIUwoow6AgY29tcGzDqXRlcikKCuKAlCBUV0lMTwo=
+# TripAdvisor — Remplissage des 18 fiches restaurants — JOURNAL TWILO
+
+## AVANT (2026-11-03 ~03:20 EST)
+
+**Mission (ordre direct Irqc)** : remplir les 18 fiches TripAdvisor des restaurants de A à Z, UNE PAR UNE, jusqu'à complétion totale. Chaque fiche complète : logo, header/cover, photos de menu, informations, courriel de contact. Ne pas dévier.
+
+**État initial :**
+- 18 kits de contenu prêts (`~/workspace/blitz-restos/<marque>/`) : hero, vraie photo Canva (16/18), caption FR, sources. Photos Canva manquantes : Place Afrique, Mythos & Go.
+- Packages de remplissage : `FICHES-TRIPADVISOR.md` (emails, téléphones +1 450-999-4999, horaires 11h–23h sauf PPP NDG 16h–3h, logos candidats).
+- Photos de menu : collecte en cours (Canva + sites web + On2Go + Google — toujours les PLUS RÉCENTES).
+- Connexion : compte par compte Google des restaurants (début : ooeuf.ca@gmail.com). Bloqué à la validation téléphone d'Irqc.
+- 0 fiche remplie à ce stade.
+
+**Règles** : règle d'or nº 11 (lire le réel avant de modifier) ; notes avant/pendant/après ; Drive + GitHub.
+
+## PENDANT (2026-11-03 ~03:30 EST)
+
+**Photos de menu — COLLECTE TERMINÉE : 108 vraies photos, 17/18 marques.**
+- Source principale : on2go.ca (menus en ligne à jour 2026-10-16, plats nommés) — les plus récentes et authentiques.
+- Canva : planches-menu texte écartées (pas des photos) ; designs 2024 dépassés écartés.
+- `~/workspace/blitz-restos/<slug>/menu/` + `menu-sources.txt` par marque.
+
+**Trous et corrections :**
+- Délices d'Aden : 0 photo trouvée nulle part — demander au restaurant (action Irqc).
+- BMBD = Bin Molle & Bin Dure, CRÈMERIE (pas burger) — le hero généré précédemment (burger) est FAUX, à régénérer.
+- Identités à valider sur les fiches live avant publication (règle nº 11) : Café Bolon = latino/empanadas sur on2go ; Déjeuner Montréal = casse-croûte ; Pizza Inntime/Algérie partagent des designs Canva.
+
+**Bloqueur restant : connexion Google ooeuf.ca@gmail.com — attente tap téléphone Irqc (Oui + 97).**
+
+## APRÈS
+(à compléter)
+
+— TWILO
