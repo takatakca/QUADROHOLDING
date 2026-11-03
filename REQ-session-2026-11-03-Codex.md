@@ -156,3 +156,16 @@ Le sommaire final officiel confirme la création du compte de retenues sur la pa
 Cette confirmation remplace la mention antérieure d'absence d'inscription ARC aux retenues sur la paie. Elle ne confirme pas une nouvelle inscription aux retenues provinciales ni l'acceptation des 34 demandes TPS/TVQ. BMBD et les 35 noms hors restauration restent à traiter; ne pas créer automatiquement des comptes ARC supplémentaires pour chaque nom commercial. Aucun PDF officiel téléchargé ni impression physique confirmé pour ce sommaire à cette étape.
 
 Signature : Codex — ChatGPT Work — 2026-11-03.
+
+
+## Reprise du soir — 3 novembre 2026, 18 h 22 (Québec)
+
+Le propriétaire réaffirme la priorité : terminer les démarches ARC et Revenu Québec, puis examiner les aides financières, bourses, financements et remboursements admissibles. Aucune demande d'aide ni admissibilité confirmée à ce stade. La mention orale « Vieux-Québec » reste à préciser avant d'y associer un projet.
+
+Revenu Québec : connexion rétablie; nouvelle tentative officielle Taxes → Fichiers de taxes → Oui à 18:22:25, toujours bloquée par « Page non trouvée », SM_0404. Aucune nouvelle demande transmise. Retour à l'accueil effectué. Les obligations et messages du portail doivent être examinés; les détails fiscaux sont consignés dans le dossier privé.
+
+ARC : accès officiel rétabli après l'erreur AMS.10. Au soir, l'onglet est utilisé par une autre session; aucune nouvelle opération ARC effectuée ici. La création RP déjà confirmée reste acquise. La page finale d'impression n'est plus présente dans les onglets consultés; seule sa transcription archivée est confirmée, pas un PDF officiel téléchargé.
+
+Les 34 demandes restent au dernier statut vérifié, en attente; suivi non relu ce soir. BMBD NDG, BMBD ST-LEONARD et les 35 noms hors restauration restent à traiter. Consigne permanente : actualiser Google Drive puis GitHub avec signature, conserver historique, corrections, exclusions, preuves, blocages et prochaines étapes. Le compte rendu et le fichier maître gardent leur historique. La synthèse couvre les échanges accessibles et les actions vérifiées, sans prétendre à une transcription verbatim intégrale des échanges indisponibles.
+
+Signature : Codex — ChatGPT Work — 3 novembre 2026, reprise du soir, heure du Québec.
