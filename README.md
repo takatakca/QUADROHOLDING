@@ -31,4 +31,8 @@ Une fiche par institution, mise à jour à chaque reprise :
 - Aucune déclaration, demande ou paiement n'est transmis sans l'accord explicite du propriétaire.
 - Le travail technique (logiciels comptables, imports) est suivi dans le dépôt 4CCOUNTING.
 
-Dernière mise à jour : 30 octobre 2026.
+## Session REQ du 3 novembre 2026
+
+[Compte rendu complet de session — version publique, signé Codex](REQ-session-2026-11-03-Codex.md) : changements saisis, 71 noms ajoutés et 20 suppressions préparées, exclusions, salariés, vérifications et points ouverts. **Dépôt au registre non confirmé.** Le compte rendu privé et les coordonnées restent dans Google Drive. Le plan REQ initial est historique.
+
+Dernière mise à jour : 3 novembre 2026 — Codex.
