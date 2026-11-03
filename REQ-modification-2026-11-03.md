@@ -1,3 +1,5 @@
+> **MISE À JOUR — 2026-11-03 — Codex : ce plan initial est conservé comme historique.** Les instructions ci-dessous de conserver les 20 anciens noms et la liste de 20 ajouts ont été remplacées par les décisions expresses du propriétaire pendant la session : 20 anciens noms marqués Supprimé et 71 ajouts dans le brouillon. Changement de contrôle et salariés également saisis. **Transmission NON CONFIRMÉE.** Lire le [compte rendu actuel signé Codex](REQ-session-2026-11-03-Codex.md) pour le résultat, les exclusions et les points ouverts. Ne pas utiliser ce plan historique comme instruction de ressaisie.
+
 # REQ — MODIFICATION 2026-11-03
 ## Toutes les fiches de noms — Quadro Holdings Ltée — prêt à soumettre au Registraire des entreprises
 
