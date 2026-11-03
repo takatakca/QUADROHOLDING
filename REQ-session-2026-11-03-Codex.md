@@ -147,3 +147,12 @@ Le compte rendu complet, les références, les extraits textuels de confirmation
 Cette mise à jour publique est demandée après information du propriétaire sur la visibilité du dépôt. Les pièces d’identité, coordonnées personnelles, identifiants fiscaux privés, références de dépôt et documents fiscaux restent dans Google Drive; ils ne sont pas joints à ce dépôt public. Les refus précédents de publication ont laissé GitHub inchangé jusqu’à cette mise à jour. Les sections historiques sont conservées pour la traçabilité; le présent état actualisé prévaut sur les mentions antérieures de transmission REQ non confirmée.
 
 Signature de mise à jour : Codex — ChatGPT Work — 2026-11-03, après vérification du suivi à 14 h 05 (Québec).
+
+
+## ARC — compte de paie créé le 3 novembre 2026
+
+Le sommaire final officiel confirme la création du compte de retenues sur la paie de Quadro Holdings Ltée. L'identifiant et la transcription de confirmation sont archivés dans le dossier privé Google Drive, avec le fichier maître actualisé. Première paie préparée selon instruction du propriétaire : 1er novembre 2026. Le propriétaire a terminé les derniers champs et la soumission; les valeurs finales de nombre d'employés, fréquence et masse salariale n'ont pas été vérifiées par Codex.
+
+Cette confirmation remplace la mention antérieure d'absence d'inscription ARC aux retenues sur la paie. Elle ne confirme pas une nouvelle inscription aux retenues provinciales ni l'acceptation des 34 demandes TPS/TVQ. BMBD et les 35 noms hors restauration restent à traiter; ne pas créer automatiquement des comptes ARC supplémentaires pour chaque nom commercial. Aucun PDF officiel téléchargé ni impression physique confirmé pour ce sommaire à cette étape.
+
+Signature : Codex — ChatGPT Work — 2026-11-03.
