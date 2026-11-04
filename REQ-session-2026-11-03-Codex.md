@@ -169,3 +169,18 @@ ARC : accès officiel rétabli après l'erreur AMS.10. Au soir, l'onglet est uti
 Les 34 demandes restent au dernier statut vérifié, en attente; suivi non relu ce soir. BMBD NDG, BMBD ST-LEONARD et les 35 noms hors restauration restent à traiter. Consigne permanente : actualiser Google Drive puis GitHub avec signature, conserver historique, corrections, exclusions, preuves, blocages et prochaines étapes. Le compte rendu et le fichier maître gardent leur historique. La synthèse couvre les échanges accessibles et les actions vérifiées, sans prétendre à une transcription verbatim intégrale des échanges indisponibles.
 
 Signature : Codex — ChatGPT Work — 3 novembre 2026, reprise du soir, heure du Québec.
+
+
+## Deuxième passe documentaire et accès ARC — 3 novembre 2026, soirée
+
+Priorité confirmée par le propriétaire : terminer les inscriptions, puis le bilan; poursuivre l'analyse OCR et le classement dans un deuxième dossier. Autorisation de copies et transmissions nécessaires réaffirmée; mots de passe EMV expressément exclus. Les secrets d'authentification restent exclus des index. Les pièces fiscales et personnelles restent dans le dossier privé; ce dépôt public reçoit le suivi.
+
+L'index maître récent, la préparation T2, le complément 2024 et les rapprochements ont été relus. Le dossier Google Drive « 05 — ANALYSE OCR ET CLASSEMENT — DEUXIÈME PASSE » est créé, avec note signée et file de contrôle issue de l'archive précédente. Contrôle de l'inventaire : 13 415 entrées, dont 12 688 métadonnées seules, 85 extractions texte, 312 extractions PDF, 18 OCR PDF à contrôle visuel, 4 extractions PDF vides et 308 OCR image à contrôle visuel. Les dossiers sont inclus; cela ne représente pas autant de documents tous à OCR. Aucun original déplacé dans cette passe.
+
+Les notes précédentes indiquent 20 dossiers et 91 fichiers classés. Cela ne constitue pas un audit complet du Drive. Les sources du bilan 2025, la balance et les écritures de clôture, les ventes manquantes, la banque et les soldes fiscaux restent à rapprocher. Aucune T2, CO-17 ou déclaration comptable finalisée ou transmise ici.
+
+ARC : session authentifiée, mais le compte Quadro n'apparaît pas à l'accueil. Le menu d'ajout indique qu'un NE existant serait lié au NAS de la session. Aucun rattachement ni nouveau compte effectué; l'accès voulu doit être résolu avant cette modification. Le compte de paie créé plus tôt reste confirmé. Aucun nouvel envoi de noms ou demandes TPS/TVQ pendant cette passe.
+
+Le fichier maître de coordination et le compte rendu privé ont été actualisés en conservant leur historique. Ne pas marquer les inscriptions, le bilan ou le classement terminés.
+
+Signature : Codex — ChatGPT Work — 3 novembre 2026, heure de Montréal.
